@@ -1,6 +1,6 @@
 # Quantum-Resilient Topological Encryption (QRE)
 
-**Author:** [Your Name]  
+**Author:** Robert Bannoura  
 **Date:** April 24, 2025  
 **Repository:** Quantum-Resilient-Topological-Encryption  
 
