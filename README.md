@@ -26,7 +26,7 @@ Quantum-Resilient Topological Encryption (QRE) is a novel encryption paradigm de
 
 ## 📜 White Paper
 
-📄 **[Read the full white paper (PDF)](link-to-your-paper.pdf)**  
+📄 **[Read the full white paper (PDF)]([link-to-your-paper.pdf](https://github.com/RobertBannoura/QRE-Quantum-Encryption/blob/main/QRE_Whitepaper.pdf))**  
 It details the theoretical framework, architecture, use cases, and future research directions for QRE.
 
 ---
@@ -50,7 +50,7 @@ This is a **research-first** initiative. If you're in quantum cryptography, theo
 
 ## 🧩 References
 
-Citations include work from Kitaev, Preskill, Freedman, Grover, Shor, and others — full list in the [white paper](link-to-your-paper.pdf).
+Citations include work from Kitaev, Preskill, Freedman, Grover, Shor, and others — full list in the [white paper]([link-to-your-paper.pdf](https://github.com/RobertBannoura/QRE-Quantum-Encryption/blob/main/QRE_Whitepaper.pdf)).
 
 ---
 
